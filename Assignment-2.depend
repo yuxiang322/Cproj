@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1681068736 source:c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\new folder\assignment-2\date.cpp
+	"dates.h"
+
+1681068685 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\new folder\assignment-2\dates.h
+	<iostream>
+	<string>
+	<sstream>
+
+1681068319 source:c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\new folder\assignment-2\main.cpp
+	<iostream>
+	<sstream>
+	<limits>
+	<string>
+	<fstream>
+	"windlog.h"
+	"vector.h"
+	"dates.h"
+	"time.h"
+	"bst.h"
+
+1681069008 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\new folder\assignment-2\windlog.h
+	<string>
+	<iostream>
+	<sstream>
+	<limits>
+	<cmath>
+	<fstream>
+	"Dates.h"
+	"time.h"
+	"vector.h"
+	"BST.h"
+	<cstring>
+	<cstdlib>
+	<map>
+
+1681068685 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\new folder\assignment-2\time.h
+	<iostream>
+	<string>
+
+1681069601 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\new folder\assignment-2\vector.h
+	<iostream>
+
+1681068512 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\new folder\assignment-2\bst.h
+	<iostream>
+	"dates.h"
+
+1681068763 source:c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\new folder\assignment-2\time.cpp
+	"time.h"
+
+1681069617 source:c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\new folder\assignment-2\windlog.cpp
+	"dates.h"
+	"time.h"
+	"windlog.h"
+	"vector.h"
+
+1681068736 source:c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\ict383-ngyuxiang-assignment2\assignment-2\date.cpp
+	"dates.h"
+
+1681068685 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\ict383-ngyuxiang-assignment2\assignment-2\dates.h
+	<iostream>
+	<string>
+	<sstream>
+
+1681068319 source:c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\ict383-ngyuxiang-assignment2\assignment-2\main.cpp
+	<iostream>
+	<sstream>
+	<limits>
+	<string>
+	<fstream>
+	"windlog.h"
+	"vector.h"
+	"dates.h"
+	"time.h"
+	"bst.h"
+
+1681081522 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\ict383-ngyuxiang-assignment2\assignment-2\windlog.h
+	<string>
+	<cstring>
+	<iostream>
+	<sstream>
+	<limits>
+	<cmath>
+	<fstream>
+	"Dates.h"
+	"time.h"
+	"vector.h"
+	"BST.h"
+	<cstring>
+	<cstdlib>
+	<map>
+
+1681068685 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\ict383-ngyuxiang-assignment2\assignment-2\time.h
+	<iostream>
+	<string>
+
+1681069601 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\ict383-ngyuxiang-assignment2\assignment-2\vector.h
+	<iostream>
+
+1681073844 c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\ict383-ngyuxiang-assignment2\assignment-2\bst.h
+	<iostream>
+	"dates.h"
+
+1681068763 source:c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\ict383-ngyuxiang-assignment2\assignment-2\time.cpp
+	"time.h"
+
+1681076144 source:c:\users\lgzai\desktop\murdoch\ict283\2023\assignment 2\ict383-ngyuxiang-assignment2\assignment-2\windlog.cpp
+	"dates.h"
+	"time.h"
+	"windlog.h"
+	"vector.h"
+
